@@ -1,7 +1,7 @@
 - 👋 Hey there! I'm Muhamad Elshazly
-- 👀 I’m interested in building an arsenal of technical skills.
+- 👀 I’m interested in starting a career in ML.
 - 🌱 I’m currently learning Date Science & Machine Learning
-- 💞️ I’m looking to collaborate on ML project 
+- 💞️ I’m looking to collaborate on ML projects 
 - 📫 Reach me through: [Linkedin](https://www.linkedin.com/in/muhamadelshazly) or [Email](muhamadsalahuldin@gmail.com)
 
 <!---
